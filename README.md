@@ -9,11 +9,11 @@ Saya adalah Career Advisor yang sedang mengembangkan kemampuan di bidang Data An
 ## Skills & Tools
 
 - Python
-- Pandas
 - Data Analysis
 - Data Visualization
 - Tableau
 - Google Colab
+- SQL
 
 ## Project
 
