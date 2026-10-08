@@ -24,7 +24,7 @@ Project ini menganalisis performa konten social media untuk mengidentifikasi tre
 
 ### Project Presentation
 
-[View Canva Portfolio](https://canva.link/fbunvebipcfgkzl)
+[View Google Slide Portfolio](https://docs.google.com/presentation/d/1sP-KA291nIsDiQuTRI7xzxDuQlmsUpU2/edit?usp=sharing&ouid=103667920642400896179&rtpof=true&sd=true)
 
 ### Analysis & Code
 
