@@ -4,7 +4,9 @@ Data Analyst Portfolio – Social Media Analytics Project
 
 ## About Me
 
-Saya adalah Career Advisor yang sedang mengembangkan kemampuan di bidang Data Analytics. Saya tertarik mengolah data menjadi insight yang dapat mendukung pengambilan keputusan dan pengembangan karier sebagai Data Analyst.
+I am a Career Advisor currently developing my skills in Data Analytics. I am passionate about transforming data into actionable insights to support decision-making and pursue a career as a Data Analyst.
+
+Linked : www.linkedin.com/in/ayum-sayyidati-594092282
 
 ## Skills & Tools
 
@@ -20,25 +22,22 @@ Saya adalah Career Advisor yang sedang mengembangkan kemampuan di bidang Data An
 ### Social Media Analytics
 **Period:** September – October 2025
 
-Project ini menganalisis performa konten social media untuk mengidentifikasi tren, konten dengan performa terbaik, dan peluang untuk meningkatkan engagement.
+This project analyzes social media content performance to identify trends, top-performing content, and opportunities to improve engagement.
 
 ### Project Presentation
 
 [View Google Slide Portfolio](https://docs.google.com/presentation/d/1sP-KA291nIsDiQuTRI7xzxDuQlmsUpU2/edit?usp=sharing&ouid=103667920642400896179&rtpof=true&sd=true)
 
-### Analysis & Code
-
-[View Google Colab](https://colab.research.google.com/drive/1z9To5VfNUQyeusLtFEHOSKZwKnedDffW?usp=sharing)
 
 ## Key Insights
 
-- Jangkauan meningkat pada Oktober.
-- Reels paling efektif dalam menjangkau audiens.
-- Lifestyle menjadi kategori konten dengan performa terbaik.
-- Interaksi audiens masih perlu ditingkatkan.
+- Reach increased in October.
+- Reels were the most effective format for reaching audiences.
+- Lifestyle was the best-performing content category.
+- Audience engagement still needs improvement.
 
 ## Recommendations
 
-- Perbanyak konten Lifestyle.
-- Gunakan lebih banyak Reels.
-- Buat CTA yang lebih relevan dengan konten.
+- Create more Lifestyle content.
+- Use Reels more frequently.
+- Include calls to action (CTAs) that are more relevant to the content.
